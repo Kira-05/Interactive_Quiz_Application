@@ -40,15 +40,15 @@ Technologies Used:
     Use event listeners for user interactions.
 
 4. Optional Enhancements:
-  Local Storage:
+   Local Storage:
     Save user progress or scores for future reference.
     Frameworks/Libraries:
     Use a library like React or Vue.js for larger, more complex quizzes.
-  Accessibility:
+    Accessibility:
     Add ARIA roles and attributes to improve screen reader compatibility.
 
 Example Technology Stack:
-  HTML: For structure.
-  CSS: For styling and layout.
-  Vanilla JavaScript: For logic and interactivity.
-  Optional: Bootstrap or Tailwind CSS for styling shortcuts.
+      HTML: For structure.
+      CSS: For styling and layout.
+      Vanilla JavaScript: For logic and interactivity.
+     Optional: Bootstrap or Tailwind CSS for styling shortcuts.
