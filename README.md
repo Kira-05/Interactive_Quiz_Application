@@ -11,6 +11,18 @@ Duration:October to December 2024
 Mentor:Santhosh Kumar
 
 Overview of the Project
+![Screenshot 2024-12-04 221123](https://github.com/user-attachments/assets/0335e886-c68e-4c6c-bc1a-25436fb945d5)
+![Screenshot 2024-12-04 221211](https://github.com/user-attachments/assets/19f2742d-7c85-4ce8-9c93-2ec3299b96fd)
+
+
+
+
+
+
+
+
+
+
 
 Project: Interactive Quize Appliction
 
