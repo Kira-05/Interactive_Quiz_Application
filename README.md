@@ -26,8 +26,7 @@ Key Activites:
 Technologies Used:
 1. HTML:
     Structure the quiz layout.
-    Use semantic tags like <div>, <button>, and <p>.
-
+  
 2. CSS:
     Style the application for a better user experience.
     Add animations or transitions for buttons and feedback.
