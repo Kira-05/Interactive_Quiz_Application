@@ -1,7 +1,7 @@
 Name:Tejashwini K S
 Company:CODETECH IT SOLUTION
 ID:CT6WDS2218
-Domain: Frontend
+Domain:Frontend
 Duration:October to December 2024
 Mentor:Santhosh Kumar
 
