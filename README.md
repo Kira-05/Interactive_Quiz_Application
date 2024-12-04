@@ -3,7 +3,7 @@ Company:CODETECH IT SOLUTION
 ID:CT6WDS2218
 Domain: Frontend
 Duration:October to December 2024
-Mentor
+Mentor:Santhosh Kumar
 
 Overview of the Project
 
